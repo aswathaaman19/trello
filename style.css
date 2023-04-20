@@ -1,0 +1,197 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width: 1200px;
+   
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.head{
+    margin:15px 0px;
+    border: 1px solid black;
+    
+}
+
+.head .title_logo{
+    width: 25px;
+    padding-top: 20px;
+    
+}
+.support_box{
+    margin-left: 15px;
+}
+.support_box a{
+    display: block;
+    text-decoration: none;
+}
+.support_box .logo_support{
+    font-size: 12px;
+    font-weight: bolder;
+    
+}
+.support_box .logo_support_2{
+    font-size: 29px;
+    color: black;
+    font-weight: bolder;
+    font-weight: 900;
+    
+}
+.connect{
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+.connect .connect_1{
+    padding-left: 25px;
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+    font-weight: normal;
+}
+.connect .connect_1:hover{
+    color: dodgerblue;
+}
+.log{
+    margin-left: 300px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.log .login1{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding-left: 30px;  
+}
+.log .login2{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: blue;
+    color:white;
+    padding: 20px 20px;
+    margin-left: 60px;   
+}
+.log .login2:hover{
+    background-color: rgb(2, 2, 145);
+}
+
+
+
+.title_top{
+    padding-right: 120px;
+    padding-top: 50px;
+    width: 40%;
+    background-color: rgb(193, 6, 193);
+}
+.title_top h1{
+    font-size: 40px;
+    color: white;
+    padding-left: 70px;
+}
+.title_top .para{
+    font-size: 17px;
+    color: white;
+    padding-left: 70px;
+}
+
+.box{
+    margin-left: 70px;
+    margin-top: 5px;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 190px;
+    color: rgb(164, 162, 162);
+    font-weight:normal;
+    border-radius: 5px;
+   
+}
+.box_s .box_1{
+    text-decoration: none;
+    color: rgb(164, 162, 162);
+}
+.box_s .sign{
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    background-color:blue;
+    color:white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.box_s .sign:hover{
+    background-color: rgb(4, 4, 116);
+}
+.title_top .joint{
+    color:rgb(218, 214, 214);
+    margin-left: 70px;
+    margin-top: 25px;
+}
+.title_top .joint:hover{
+    color: white;
+}
+.title_top .first_img{
+    width: 130%;   
+}
+
+
+.conjoi{
+    margin: 20px 40px;
+
+}
+.conjoi .small{
+    font-size: 15px;
+}
+.conjoi .big{
+    font-size: 32px;
+}
+.conjoi .abc{
+    font-size: 20px;
+    width: 50%;
+    font-weight: normal;
+    
+}
+.conjoi .connect_2{
+    color: blue;
+}
+
+.parts{
+    width: 30%;
+    margin: 20px 0px;
+    margin-left: 50px;
+    margin-right: 20px;
+  
+
+  
+}
+.parts .joints{
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+.parts .tit{
+    font-weight: bolder;
+}
+.parts .part1{
+    font-weight: normal;
+    width: 70%;
+    font-size: 16px;
+    
+}
+.img1{
+    margin-left: 0px;
+  
+  
+}
+.types{
+    width: 140%;
+   
+    
+}
+
+
+
